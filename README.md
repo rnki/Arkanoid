@@ -16,3 +16,5 @@ Este jogo é uma cópia do antigo jogo "Arkanoid", um jogo de fliperama de 1986 
 *O projeto contém palavras em português.*
 
 **Quero melhorar em desenvolvimento de jogos, então, se você tiver ideias para modificações ou melhorias na jogabilidade, por favor, entre em contato comigo e me ajude a evoluir nisso!**
+
+![download-arkanoid--eternal-battle-offer-zmlsh](https://github.com/rnki/Arkanoid/assets/144726941/5a2a2b9f-dd53-4aee-9217-82f8f510e14f)
